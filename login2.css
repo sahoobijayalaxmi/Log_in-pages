@@ -1,0 +1,76 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color: rgb(129, 22, 230);
+}
+
+
+.firstdiv{
+    height: 400px;
+    width: 400px;
+    position: absolute;
+    top: 200px;
+    left: 500px;
+    background-color: white;
+    color: black;
+  
+   
+}
+.seconddiv{
+    text-align: center;
+    height: 400px;
+    width: 400px;
+    position: absolute;
+    top: 200px;
+    left: 900px;
+    color: white;
+    background-image: url(https://th.bing.com/th/id/OIP.RfooReCjMUmVoGEF6E1boAHaEo?w=292&h=182&c=7&r=0&o=5&pid=1.7);
+    opacity: 0.5;
+}
+
+.firstdiv h1{
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.firstdiv input{
+    margin-left: 40px;
+    margin-top: 20px;
+    height: 25px;
+    width: 300px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 3px solid gray;
+}
+
+.firstdiv .forgot{
+    margin-left: 40px;
+    color: blueviolet;
+}
+
+button{
+    height: 30px;
+    width: 300px;
+    background-color: blueviolet;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    position: relative;
+    top: 20px;
+    left: 40px;
+    border: none;
+}
+
+.acc{
+    position: relative;
+    top: 50px;
+    left: 70px;
+    
+    font-size: 17px;
+}
+
+.signup{
+    color: blueviolet;
+}
+

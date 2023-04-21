@@ -1,0 +1,69 @@
+*{
+    margin: 0px;
+}
+
+.maindiv{
+    text-align: center;
+    line-height: 30px;
+    border-top-left-radius: 75px;
+    border-bottom-right-radius: 75px;
+    border: 2px solid  gray;
+    
+    
+    position: absolute;
+    top: 300px;
+    left: 800px;
+    height: 400px;
+    width: 400px;
+   color: white;
+   opacity: 1;
+   
+}
+.maindiv:hover{
+   
+}
+
+body{
+    
+    background-image: url(https://th.bing.com/th/id/R.db5941d247c7033bea52265f0564cde7?rik=k1VSf2d2zaGs5Q&riu=http%3a%2f%2fwww.wallpapersin4k.org%2fwp-content%2fuploads%2f2017%2f04%2fFull-HD-Desktop-Wallpapers-1920x1080-9.jpg&ehk=RBGwT%2fvdlyTYaAG9MoeHyBk7XEaQO6h1gglh1MGLAj0%3d&risl=&pid=ImgRaw&r=0);
+}
+
+.maindiv h1{
+    font-size: 50px;
+    font-weight: bold;
+    position: relative;
+    top: 15px;
+    opacity: 1;
+}
+
+
+.maindiv p{
+    position: relative;
+    top: 150px;
+    color: rgb(32, 233, 233);
+}
+.maindiv button{
+    position: relative;
+    top: 100px;
+    height: 30px;
+    width: 300px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(36, 218, 218);
+}
+
+.maindiv input{
+    position: relative;
+    top: 50px;
+    height: 30px;
+    width: 300px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+    line-height: 35px;
+    margin: 10px;
+}
+
